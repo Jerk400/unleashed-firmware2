@@ -7,3 +7,4 @@ protobuf==3.20.1
 pyserial==3.5
 python3-protobuf==2.5.0
 SCons==4.4.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
